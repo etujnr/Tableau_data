@@ -1,2 +1,2 @@
 # Tableau_data
-All dataset required to do data visualization with Tableau
+Dataset you can use to created visualizations on Tableau
